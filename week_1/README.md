@@ -6,10 +6,10 @@
 
 - ### Requirment
 
-![req](./req.PNG)
+![req](./pic/req.PNG)
    
 <br/>
 
 - ## Result
 
-![result](./res.PNG)
+![result](./pic/res.PNG)
