@@ -4,7 +4,7 @@
     
 </br>
 
-- ### Requirment
+- ### Requirement
 
 ![req](./pic/req.PNG)
    
