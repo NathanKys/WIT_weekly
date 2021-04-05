@@ -4,7 +4,7 @@
    
 ## Requirement   
    
-![req_img](./public/req.PNG)   
+![req_img](./public/req.png)   
    
 Fetch data and build its data to component, sorted in user ID.   
    
