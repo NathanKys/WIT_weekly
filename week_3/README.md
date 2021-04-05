@@ -8,7 +8,7 @@
    
 Fetch data and build its data to component, sorted in user ID.   
    
-Make an box of inputs with given example, and prepend a same component with its input's value by clicking a button.   
+Make a box of inputs with given example, and prepend a same component with its input's value by clicking a button.   
    
 </br>   
    
